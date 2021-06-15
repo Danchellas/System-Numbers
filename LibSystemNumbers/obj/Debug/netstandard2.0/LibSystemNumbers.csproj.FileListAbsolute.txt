@@ -1,0 +1,9 @@
+E:\sys-numbers\LibSystemNumbers\bin\Debug\netstandard2.0\LibSystemNumbers.deps.json
+E:\sys-numbers\LibSystemNumbers\bin\Debug\netstandard2.0\LibSystemNumbers.dll
+E:\sys-numbers\LibSystemNumbers\bin\Debug\netstandard2.0\LibSystemNumbers.pdb
+E:\sys-numbers\LibSystemNumbers\obj\Debug\netstandard2.0\LibSystemNumbers.csprojAssemblyReference.cache
+E:\sys-numbers\LibSystemNumbers\obj\Debug\netstandard2.0\LibSystemNumbers.AssemblyInfoInputs.cache
+E:\sys-numbers\LibSystemNumbers\obj\Debug\netstandard2.0\LibSystemNumbers.AssemblyInfo.cs
+E:\sys-numbers\LibSystemNumbers\obj\Debug\netstandard2.0\LibSystemNumbers.csproj.CoreCompileInputs.cache
+E:\sys-numbers\LibSystemNumbers\obj\Debug\netstandard2.0\LibSystemNumbers.dll
+E:\sys-numbers\LibSystemNumbers\obj\Debug\netstandard2.0\LibSystemNumbers.pdb
