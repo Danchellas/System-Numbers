@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sys-numbers/1.0.0": {
+        "dependencies": {
+          "LibSystemNumbers": "1.0.0"
+        },
+        "runtime": {
+          "sys-numbers.dll": {}
+        }
+      },
+      "LibSystemNumbers/1.0.0": {
+        "runtime": {
+          "LibSystemNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sys-numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibSystemNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
